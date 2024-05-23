@@ -1,0 +1,16 @@
+{
+  "name": "easy-crypto-front",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhau1989/easy-crypto.git"
+  },
+  "author": "Samuel Pilay Muñoz <yhau1989@gmail.com>",
+  "description": "easy crypto to frontend projects",
+  "license": "MIT",
+  "dependencies": {
+    "cryptr": "^6.3.0"
+  }
+}
